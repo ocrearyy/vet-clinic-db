@@ -17,10 +17,9 @@ This repository includes files with plain SQL that can be used to recreate a dat
 GitHub: @oshanedesign
 LinkedIn: LinkedIn
 
-🤝 Contributing
-Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 Show your support
 Give a ⭐️ if you like this project!
